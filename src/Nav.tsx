@@ -15,7 +15,7 @@ const navigation = [
   { name: 'Music', href: '#music' },
 ]
 
-function classNames(...classes) {
+function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
 }
 
@@ -112,12 +112,11 @@ export default function Nav() {
               key={item.name}
               as="a"
               href={item.href}
-              aria-current={item.current ? 'page' : undefined}
               className={classNames(
-                item.current
+                currentSection === item.name
                   ? 'bg-gray-900 text-white'
                   : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                'block rounded-md px-3 py-2 text-base font-medium'
+                'rounded-md px-3 py-2 text-sm font-medium'
               )}
             >
               {item.name}
