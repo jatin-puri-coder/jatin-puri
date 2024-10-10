@@ -8,7 +8,7 @@ export default function Home() {
       <div className="homeimg">
         <img
           className="mainlogo slide-in-blurred-bottom"
-          src="src/assets/Logo(Black).png"
+          src="./assets/Logo(Black).png"
           alt="Logo"
         />
         {/* <h2 className="text-flicker-in-glow name text-center text-cyan-500">

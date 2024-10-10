@@ -5,7 +5,7 @@ export default function About() {
         <h1 className="text-5xl font-bold text-center">About Me</h1>
         <div className="flex justify-center items-center">
           <img
-            src="/src/assets/mypic.png"
+            src="./assets/mypic.png"
             alt="Jatin picture"
             className="h-auto max-w-60 "
           ></img>

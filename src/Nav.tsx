@@ -49,7 +49,7 @@ export default function Nav() {
             <div className="flex flex-shrink-0 items-center">
               <img
                 alt="JP logo"
-                src="src/assets/Logo(Black).png"
+                src="./assets/Logo(Black).png"
                 className="h-8 w-auto spin"
               />
             </div>
