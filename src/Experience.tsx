@@ -1,10 +1,10 @@
 export default function Experience() {
   return (
     <>
-      <h1 className="text-5xl font-bold text-center mb-10">
-        Coding Experience
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-10">
+        Experience
       </h1>
-      <div className="bg-sky-100 mx-64 rounded-3xl p-3 text-justify mb-5">
+      <div className="bg-sky-100 rounded-3xl p-3 text-justify mb-5 mx-10 sm:mx-20 lg:mx-56">
         <h2 className="font-bold mb-3">
           2021(Oct- Present) - Lead Facilitator, Dev Academy, Christchurch
         </h2>
@@ -20,7 +20,7 @@ export default function Experience() {
           bootcamp experience.
         </p>
       </div>
-      <div className="bg-sky-100 mx-64 rounded-3xl p-3 text-justify mb-5">
+      <div className="bg-sky-100 rounded-3xl p-3 text-justify mb-5 mx-10 sm:mx-20 lg:mx-56">
         <h2 className="font-bold mb-3">
           2016 – 2020 - ESL Teacher, EF Language School, Auckland
         </h2>
@@ -36,7 +36,7 @@ export default function Experience() {
           react the way they do.
         </p>
       </div>
-      <div className="bg-sky-100 mx-64 rounded-3xl p-3 text-justify mb-5">
+      <div className="bg-sky-100 rounded-3xl p-3 text-justify mb-5 mx-10 sm:mx-20 lg:mx-56">
         <h2 className="font-bold mb-3">2004 - Present - Music Producer/DJ</h2>
         <p>
           Taught English as a second language to students aged 16+ from various

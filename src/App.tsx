@@ -7,28 +7,28 @@ import Projects from './Projects'
 function App() {
   return (
     <>
-      <div className="scroll-smooth">
-        <div className="">
+      <div className="container scroll-smooth">
+        <div className="w-screen">
           <Nav />
         </div>
 
         <div className="pt-16">
-          <div id="home" className="h-screen pt-16 -mt-16">
+          <div id="home" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <Home />
           </div>
 
-          <div id="about" className="h-screen pt-16 -mt-16">
+          <div id="about" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <About />
           </div>
 
-          <div id="experience" className="h-screen pt-16 -mt-16">
+          <div id="experience" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <Experience />
           </div>
 
-          <div id="projects" className="h-screen pt-16 -mt-16">
+          <div id="projects" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <Projects />
           </div>
-          <div id="music" className="h-screen pt-16 -mt-16">
+          <div id="music" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <Music />
           </div>
         </div>

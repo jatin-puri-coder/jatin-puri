@@ -2,7 +2,9 @@ export default function About() {
   return (
     <>
       <div>
-        <h1 className="text-5xl font-bold text-center">About Me</h1>
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center">
+          About Me
+        </h1>
         <div className="flex justify-center items-center">
           <img
             src="/mypic.png"
@@ -10,7 +12,7 @@ export default function About() {
             className="h-auto max-w-60 "
           ></img>
         </div>
-        <div className="bg-sky-100 mx-64 rounded-3xl p-3 text-justify">
+        <div className="bg-sky-100 rounded-3xl p-3 text-justify mx-10 sm:mx-20 lg:mx-56">
           <p>
             Hello there! I'm Jatin, a web developer and musician currently based
             in Christchurch, New Zealand! I am a creative individual with a

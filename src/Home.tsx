@@ -1,13 +1,13 @@
 export default function Home() {
   return (
-    <>
-      <h1 className="title text-5xl font-bold text-center">
+    <div className="flex flex-col items-center  h-full">
+      <h1 className="title text-lg md:text-2xl lg:text-4xl xl:text-5xl font-bold text-center">
         Kia Ora! I'm Jatin Puri. Web Developer + Music Artist
       </h1>
 
-      <div className="homeimg">
+      <div className="homeimg mt-6">
         <img
-          className="mainlogo slide-in-blurred-bottom"
+          className=" slide-in-blurred-bottom w-full"
           src="/Logo(Black).png"
           alt="Logo"
         />
@@ -15,6 +15,6 @@ export default function Home() {
             Jatin Puri
           </h2> */}
       </div>
-    </>
+    </div>
   )
 }
