@@ -23,18 +23,18 @@ export default function About() {
             projects, contract work or full-time employment.
           </p>
           <br></br>
-          <h2 className="font-bold">Some of my key skills and attributes - </h2>
+          <h2 className="font-bold">Some of my key skills and strengths - </h2>
 
           <ul className="mt-2 list-disc pl-10">
             <li>
-              Javascript, Typescript, NodeJS, React, Redux, React Query, React
-              Native, Express, SQLite3, Three.js, Firebase, Tailwind, Vitest,
-              Jest, HTML & CSS
+              Experience with Javascript, Typescript, NodeJS, React, Redux,
+              React Query, React Native, Express, SQLite3, Three.js, Firebase,
+              Tailwind, Vitest, Jest, HTML & CSS
             </li>
+            <li>Public speaking and presenting ideas</li>
             <li>Capable of working in high stress conditions</li>
             <li>Strong interpersonal and communication skills </li>
             <li>Adaptable, flexible and able to grasp ideas quickly </li>
-            <li>Public speaking </li>
           </ul>
         </div>
       </div>

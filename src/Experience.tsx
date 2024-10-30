@@ -9,15 +9,14 @@ export default function Experience() {
           2021(Oct- Present) - Lead Facilitator, Dev Academy, Christchurch
         </h2>
         <p>
-          After completing the intensive 15 week web development bootcamp
-          offered by Dev Academy, I was hired by them to join their online
-          bootcamp facilitator team, where my key role was to help facilitate
-          students’ learnings. This involved answering any questions that
-          students may have and helping them find a way to solve problems. Later
-          on, as I was promoted to lead facilitator in 2022, my responsibilities
-          also giving lectures, running several projects as a product owner &
-          team lead, managing a team of facilitators and leading the online
-          bootcamp experience.
+          I started as a facilitator in the online bootcamp team, where my key
+          role was to help facilitate students’ learnings. This involved
+          answering any questions that students may have and guiding them to
+          find a way to debug their problems. Later on, as I was promoted to
+          lead facilitator in 2022, my responsibilities also included giving
+          lectures, running several projects as a product owner & team lead,
+          managing a team of facilitators and leading the online bootcamp
+          experience.
         </p>
       </div>
       <div className="bg-sky-100 rounded-3xl p-3 text-justify mb-5 mx-10 sm:mx-20 lg:mx-56">
