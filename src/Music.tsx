@@ -28,9 +28,7 @@ export default function Music() {
           ></iframe>
         </div>
         <div className="p-5">
-          <h2 className="text-center mb-2">
-            A playlist to listen to when coding
-          </h2>
+          <h2 className="text-center mb-2">A playlist to for you to enjoy</h2>
           <iframe
             className="musicplayer"
             title="spotify playlist"

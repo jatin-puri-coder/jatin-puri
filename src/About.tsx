@@ -27,10 +27,13 @@ export default function About() {
 
           <ul className="mt-2 list-disc pl-10">
             <li>
-              Experience with Javascript, Typescript, NodeJS, React, Redux,
-              React Query, React Native, Express, SQLite3, Three.js, Firebase,
-              Tailwind, Vitest, Jest, HTML & CSS
+              Confindent with Javascript, Typescript, NodeJS, React, React
+              Query, Express, SQLite3,Tailwind, Vitest, Jest, HTML & CSS
             </li>
+            <li>
+              Comfortable with React Native, Vue, Firebase, Three.js Redux
+            </li>
+            <li>Curious about Angular, Flutter, Dart, AWS, .NET, Python</li>
             <li>Public speaking and presenting ideas</li>
             <li>Capable of working in high stress conditions</li>
             <li>Strong interpersonal and communication skills </li>
