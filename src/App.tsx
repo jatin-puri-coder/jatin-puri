@@ -3,7 +3,7 @@ import Experience from './Experience'
 import Home from './Home'
 import Music from './Music'
 import Nav from './Nav'
-import Projects from './Projects'
+
 function App() {
   return (
     <>
@@ -25,9 +25,6 @@ function App() {
             <Experience />
           </div>
 
-          <div id="projects" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
-            <Projects />
-          </div>
           <div id="music" className="min-h-screen pt-16 sm:pt-16 md:pt-16">
             <Music />
           </div>

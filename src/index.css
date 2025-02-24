@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #d0e7ee;
+  background-color: #b7dae5;
   margin: 0;
   /* display: flex; */
   /* justify-content: center; */
@@ -25,7 +25,7 @@ body {
 
 .title {
   box-sizing: border-box;
-  color: #0081a7;
+  color: #661010;
   padding-top: 4rem;
   padding-left: 1rem;
   padding-right: 1rem;

@@ -4,7 +4,13 @@ export default function Projects() {
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center">
         Projects
       </h1>
-      <p className="text-center title text-3xl">Coming Soon...</p>
+      <a
+        href="https://silentmonkey.co.nz/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        My Work
+      </a>
     </>
   )
 }
