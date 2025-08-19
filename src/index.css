@@ -82,6 +82,7 @@ body {
 
   .title {
     padding-top: 3rem; /* Less padding on top for smaller devices */
+    animation: none;
   }
 }
 
@@ -93,6 +94,7 @@ body {
   .title {
     white-space: normal;
     padding-top: 1.5rem; /* Reduce padding even more for mobile */
+    animation: none;
   }
   .container {
     padding-left: 2rem; /* Reduce padding on smaller screens */
