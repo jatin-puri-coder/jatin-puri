@@ -48,22 +48,16 @@ export default function About() {
             </a>
           </p> */}
           <br></br>
-          <h2 className="font-bold">Some of my key skills and strengths - </h2>
+          <h2 className="font-bold">Tech stack I work with</h2>
 
           <ul className="mt-2 list-disc pl-10">
             <li>
-              Confindent with Git, Javascript, Typescript, NodeJS, React,
-              Express, SQLite3,Tailwind, Vitest, Jest, HTML & CSS
+              Frontend - React, React Native, Tailwind, Three.js, Flutter, HTML
+              & CSS
             </li>
-            <li>
-              Comfortable with React Native, Vue, Firebase, Three.js,
-              Flutter/Dart
-            </li>
-            <li>Curious about Angular, AWS, .NET, Python</li>
-            <li>Comfortable with public speaking and presenting ideas</li>
-            <li>Capable of working in high stress conditions</li>
-            <li>Strong interpersonal and communication skills </li>
-            <li>Adaptable, flexible and able to grasp new ideas quickly </li>
+            <li>Backend - Node.js, Express.js, Firebase, SQLite</li>
+            <li>Testing & Tools - Vitest, Jest, Git</li>
+            <li>Languages - Javascript, Typescript, Dart</li>
           </ul>
         </div>
       </div>
